@@ -12,7 +12,7 @@ psql ecommerce_postgres < seed.sql
 
 ## Schema Overview
 
-![Schema](./../_public/_database_instance/Screenshot%20from%202025-12-08%2021-39-50.png)
+![Schema](./../_public/database_instance/Screenshot%20from%202025-12-08%2021-39-50.png)
 
 
 ## Files
